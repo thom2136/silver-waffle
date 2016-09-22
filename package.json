@@ -1,0 +1,23 @@
+{
+  "name": "silver-waffle",
+  "version": "1.0.0",
+  "description": "Testversion",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thom2136/silver-waffle.git"
+  },
+  "author": "Thomas Hartmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thom2136/silver-waffle/issues"
+  },
+  "homepage": "https://github.com/thom2136/silver-waffle#readme"
+}
